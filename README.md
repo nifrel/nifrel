@@ -24,6 +24,7 @@
 ## OS
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows)
 
 ## Tool
 
