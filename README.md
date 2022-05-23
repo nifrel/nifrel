@@ -25,7 +25,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows)
-![Mac](https://img.shields.io/badge/-Mac-black?logo=Mac)
+![MacOS](https://img.shields.io/badge/-MacOS-black?logo=macos)
 
 ## Tool
 
